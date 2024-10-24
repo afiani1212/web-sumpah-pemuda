@@ -1,0 +1,30 @@
+.container {
+    color: rgb(0, 0, 0);
+}
+
+section {
+    margin-bottom: 20px;
+    background-image: rgb(155, 10, 10);
+    padding: 20 px;
+    border-radius: 15 px;
+    box-shadow: 0 2px 5px black;
+    border-radius: 1rem;
+}
+
+
+.body-latar{
+    background-image: url(https://4.bp.blogspot.com/-zMmnIrGzrgA/W9ounYz9_BI/AAAAAAAABp0/xGA1KI1JzBYMqRzhRgZ6rWeImUXUHBIJwCLcBGAs/s640/TIRTOID-antarafoto-aksi-sumpah-pemuda-271016-yu-3_ratio-16x9.JPG);
+}
+
+section{
+   margin-bottom: 20px;
+   background-color: gainsboro;
+   padding: 20px;
+   border-radius: 15px;
+   box-shadow: 0 2px 5px black;
+   border-radius: 1rem;
+}
+
+img{
+width: 600px;
+}
